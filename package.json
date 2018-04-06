@@ -1,0 +1,28 @@
+{
+  "name": "Sprint-Challenge-Node-Express",
+  "version": "1.0.0",
+  "description": "Weekly Challenge",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagdish/Sprint-Challenge-Node-Express.git"
+  },
+  "keywords": [],
+  "author": "Sagdi Formanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagdish/Sprint-Challenge-Node-Express/issues"
+  },
+  "homepage": "https://github.com/sagdish/Sprint-Challenge-Node-Express#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "knex": "^0.14.4",
+    "sqlite3": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
